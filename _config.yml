@@ -1,0 +1,14 @@
+layout_spectrum: 0.29929806385189295
+typography_spectrum: 0.20916987652890384
+color:
+  brandStrength: 0.3720188227016479
+  lightness: 0.38482033321633935
+  saturation: 0.2519140690565109
+  rhythmicContrast: 0.9953701067715883
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: DBMoyer
