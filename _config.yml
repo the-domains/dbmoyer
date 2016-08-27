@@ -11,6 +11,8 @@ color:
     - '#1D2326'
     - '#6A6A61'
 layout_spectrum: 0.29929806385189295
+analytics:
+  google: UA-1062323-9
 name: DBMoyer
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cada8429-0db9-4b02-8397-e9598d584820.ico
