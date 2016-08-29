@@ -29,6 +29,9 @@ navigation:
   - name: Duccats
     url: 'http://duccats.com'
     type: external
+  - name: JumbleFace
+    url: 'http://jumble-face.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cada8429-0db9-4b02-8397-e9598d584820.ico
 title: D B Moyer LLC
