@@ -19,6 +19,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/956083ac-cc34-4d48-853a-1a1685903df2.png
 name: DBMoyer
+navigation:
+  - name: Bible Study Tools
+    url: 'http://helpmewithbiblestudy.org'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cada8429-0db9-4b02-8397-e9598d584820.ico
 title: D B Moyer LLC
